@@ -25,8 +25,6 @@ weppage as close to the design as possible.
 
 Once you have completed the marketing website follow these steps to submit your assessment:
 
-1. Create an email with a subject line that is **Assesment-{your name here}**
-2. Attach the folder containing your completed assessment to the email.
-3. Send the email to **TODO: Add email address here**.
-3. Your official submission time will be when the email is received by us.
-4. Congratulations, you completed the assessment!  We will get back to you after our review is complete.
+1. Navigate to https://airtable.com/shrE1UOGujJVnAwMw.
+2. Fill out and submit the form.
+3. Congratulations, you completed the assessment!  We will get back to you after our review is complete.
