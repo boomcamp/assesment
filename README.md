@@ -23,6 +23,6 @@ weppage as close to the design as possible.
 
 Once you have completed the marketing website follow these steps to submit your assessment:
 
-1. Navigate to https://airtable.com/shrE1UOGujJVnAwMw.
+1. Navigate to https://app.smartsheet.com/b/form/45dc0b47ab8948ebb75ebafe2665001c
 2. Fill-out and submit the form.
 3. Congratulations, you completed the assessment!  We will get back to you after our review is complete.
