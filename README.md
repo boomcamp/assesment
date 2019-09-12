@@ -6,9 +6,9 @@ file, you have the fundemental skills needed to succeed in the BoomCamp program.
 
 ## Instructions
 
-1. Use the provided design file (website/design_desktop.jpg) as your guide to
-   building the webpage. All images (website/images) and icons (website/icons)
-   have been provided for you, just build the weppage as close to the design as
+1. Use the provided design file [website/design_desktop.jpg](website/design_desktop.jpg) as your guide to
+   building the webpage. All images [website/images](website/images) and icons [website/icons](website/icons)
+   have been provided for you, just build the webpage as close to the design as
    possible.
 2. Please see requirements below for more details.
 
